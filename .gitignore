@@ -1,0 +1,17 @@
+# dependencies
+
+node_modules
+
+
+# terraform excludes
+
+.terraform
+*.tfstate.backup
+*.tfstate
+plan.*
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+
