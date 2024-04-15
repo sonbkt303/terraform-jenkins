@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   tools {
-    terraform 'terraform integration'
+    terraform 'terraform'
   }
 
   environment {
